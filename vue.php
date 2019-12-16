@@ -4,7 +4,7 @@
     <?php include 'partials/head.php'; ?>
 </head>
 <body>
-<header><?php include 'partials/header.php'; ?></header>
+<?php include 'partials/header.php'; ?>
 
 <main>
     <div class="container">
@@ -12,6 +12,6 @@
     </div>
 </main>
 
-<footer><?php include 'partials/footer.php'; ?></footer>
+<?php include 'partials/footer.php'; ?>
 </body>
 </html>
